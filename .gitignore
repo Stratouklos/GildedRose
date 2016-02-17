@@ -1,0 +1,23 @@
+java/.metadata
+java/StringCalculator/bin
+java/RomanNumeralsCalculator/bin
+java/TriviaScorer/bin
+java/GildedRose/bin
+java/library/bin
+java/portfolio/bin
+
+# java
+*.class
+.gradle/
+
+# Intellij
+*.iml
+.idea/
+
+# Mac
+.DS_Store
+history
+
+# PHP
+vendor/
+composer.lock

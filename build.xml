@@ -1,0 +1,21 @@
+<project name="GuildedRose_java" default="compile" basedir=".">
+
+    <property name="src" location="src/main/java"/>
+    <property name="test" location="src/test/java"/>
+    <property name="out" location="target/classes"/>
+
+    <target name="init">
+        <tstamp/>
+        <mkdir dir="${out}"/>
+    </target>
+
+    <target name="compile" depends="init" description="compile the source ">
+        <javac srcdir="${src}" destdir="${out}"/>
+    </target>
+
+    <target name="clean"
+            description="clean up">
+        <delete dir="${out}"/>
+    </target>
+
+</project>

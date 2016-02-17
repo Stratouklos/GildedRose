@@ -1,0 +1,1800 @@
+Day 1
++5 Dexterity Vest                           Quality:  0   SellIn:  20
+Aged Brie                                   Quality:  0   SellIn:  20
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  20
+Elixir of the Mongoose                      Quality:  0   SellIn:  20
+arbitrary item                              Quality:  0   SellIn:  20
++5 Dexterity Vest                           Quality: 25   SellIn:  20
+Aged Brie                                   Quality: 25   SellIn:  20
+Backstage passes to a TAFKAL80ETC concert   Quality: 25   SellIn:  20
+Elixir of the Mongoose                      Quality: 25   SellIn:  20
+arbitrary item                              Quality: 25   SellIn:  20
++5 Dexterity Vest                           Quality: 50   SellIn:  20
+Aged Brie                                   Quality: 50   SellIn:  20
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:  20
+Elixir of the Mongoose                      Quality: 50   SellIn:  20
+arbitrary item                              Quality: 50   SellIn:  20
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 2
++5 Dexterity Vest                           Quality:  0   SellIn:  19
+Aged Brie                                   Quality:  1   SellIn:  19
+Backstage passes to a TAFKAL80ETC concert   Quality:  1   SellIn:  19
+Elixir of the Mongoose                      Quality:  0   SellIn:  19
+arbitrary item                              Quality:  0   SellIn:  19
++5 Dexterity Vest                           Quality: 24   SellIn:  19
+Aged Brie                                   Quality: 26   SellIn:  19
+Backstage passes to a TAFKAL80ETC concert   Quality: 26   SellIn:  19
+Elixir of the Mongoose                      Quality: 24   SellIn:  19
+arbitrary item                              Quality: 24   SellIn:  19
++5 Dexterity Vest                           Quality: 49   SellIn:  19
+Aged Brie                                   Quality: 50   SellIn:  19
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:  19
+Elixir of the Mongoose                      Quality: 49   SellIn:  19
+arbitrary item                              Quality: 49   SellIn:  19
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 3
++5 Dexterity Vest                           Quality:  0   SellIn:  18
+Aged Brie                                   Quality:  2   SellIn:  18
+Backstage passes to a TAFKAL80ETC concert   Quality:  2   SellIn:  18
+Elixir of the Mongoose                      Quality:  0   SellIn:  18
+arbitrary item                              Quality:  0   SellIn:  18
++5 Dexterity Vest                           Quality: 23   SellIn:  18
+Aged Brie                                   Quality: 27   SellIn:  18
+Backstage passes to a TAFKAL80ETC concert   Quality: 27   SellIn:  18
+Elixir of the Mongoose                      Quality: 23   SellIn:  18
+arbitrary item                              Quality: 23   SellIn:  18
++5 Dexterity Vest                           Quality: 48   SellIn:  18
+Aged Brie                                   Quality: 50   SellIn:  18
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:  18
+Elixir of the Mongoose                      Quality: 48   SellIn:  18
+arbitrary item                              Quality: 48   SellIn:  18
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 4
++5 Dexterity Vest                           Quality:  0   SellIn:  17
+Aged Brie                                   Quality:  3   SellIn:  17
+Backstage passes to a TAFKAL80ETC concert   Quality:  3   SellIn:  17
+Elixir of the Mongoose                      Quality:  0   SellIn:  17
+arbitrary item                              Quality:  0   SellIn:  17
++5 Dexterity Vest                           Quality: 22   SellIn:  17
+Aged Brie                                   Quality: 28   SellIn:  17
+Backstage passes to a TAFKAL80ETC concert   Quality: 28   SellIn:  17
+Elixir of the Mongoose                      Quality: 22   SellIn:  17
+arbitrary item                              Quality: 22   SellIn:  17
++5 Dexterity Vest                           Quality: 47   SellIn:  17
+Aged Brie                                   Quality: 50   SellIn:  17
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:  17
+Elixir of the Mongoose                      Quality: 47   SellIn:  17
+arbitrary item                              Quality: 47   SellIn:  17
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 5
++5 Dexterity Vest                           Quality:  0   SellIn:  16
+Aged Brie                                   Quality:  4   SellIn:  16
+Backstage passes to a TAFKAL80ETC concert   Quality:  4   SellIn:  16
+Elixir of the Mongoose                      Quality:  0   SellIn:  16
+arbitrary item                              Quality:  0   SellIn:  16
++5 Dexterity Vest                           Quality: 21   SellIn:  16
+Aged Brie                                   Quality: 29   SellIn:  16
+Backstage passes to a TAFKAL80ETC concert   Quality: 29   SellIn:  16
+Elixir of the Mongoose                      Quality: 21   SellIn:  16
+arbitrary item                              Quality: 21   SellIn:  16
++5 Dexterity Vest                           Quality: 46   SellIn:  16
+Aged Brie                                   Quality: 50   SellIn:  16
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:  16
+Elixir of the Mongoose                      Quality: 46   SellIn:  16
+arbitrary item                              Quality: 46   SellIn:  16
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 6
++5 Dexterity Vest                           Quality:  0   SellIn:  15
+Aged Brie                                   Quality:  5   SellIn:  15
+Backstage passes to a TAFKAL80ETC concert   Quality:  5   SellIn:  15
+Elixir of the Mongoose                      Quality:  0   SellIn:  15
+arbitrary item                              Quality:  0   SellIn:  15
++5 Dexterity Vest                           Quality: 20   SellIn:  15
+Aged Brie                                   Quality: 30   SellIn:  15
+Backstage passes to a TAFKAL80ETC concert   Quality: 30   SellIn:  15
+Elixir of the Mongoose                      Quality: 20   SellIn:  15
+arbitrary item                              Quality: 20   SellIn:  15
++5 Dexterity Vest                           Quality: 45   SellIn:  15
+Aged Brie                                   Quality: 50   SellIn:  15
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:  15
+Elixir of the Mongoose                      Quality: 45   SellIn:  15
+arbitrary item                              Quality: 45   SellIn:  15
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 7
++5 Dexterity Vest                           Quality:  0   SellIn:  14
+Aged Brie                                   Quality:  6   SellIn:  14
+Backstage passes to a TAFKAL80ETC concert   Quality:  6   SellIn:  14
+Elixir of the Mongoose                      Quality:  0   SellIn:  14
+arbitrary item                              Quality:  0   SellIn:  14
++5 Dexterity Vest                           Quality: 19   SellIn:  14
+Aged Brie                                   Quality: 31   SellIn:  14
+Backstage passes to a TAFKAL80ETC concert   Quality: 31   SellIn:  14
+Elixir of the Mongoose                      Quality: 19   SellIn:  14
+arbitrary item                              Quality: 19   SellIn:  14
++5 Dexterity Vest                           Quality: 44   SellIn:  14
+Aged Brie                                   Quality: 50   SellIn:  14
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:  14
+Elixir of the Mongoose                      Quality: 44   SellIn:  14
+arbitrary item                              Quality: 44   SellIn:  14
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 8
++5 Dexterity Vest                           Quality:  0   SellIn:  13
+Aged Brie                                   Quality:  7   SellIn:  13
+Backstage passes to a TAFKAL80ETC concert   Quality:  7   SellIn:  13
+Elixir of the Mongoose                      Quality:  0   SellIn:  13
+arbitrary item                              Quality:  0   SellIn:  13
++5 Dexterity Vest                           Quality: 18   SellIn:  13
+Aged Brie                                   Quality: 32   SellIn:  13
+Backstage passes to a TAFKAL80ETC concert   Quality: 32   SellIn:  13
+Elixir of the Mongoose                      Quality: 18   SellIn:  13
+arbitrary item                              Quality: 18   SellIn:  13
++5 Dexterity Vest                           Quality: 43   SellIn:  13
+Aged Brie                                   Quality: 50   SellIn:  13
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:  13
+Elixir of the Mongoose                      Quality: 43   SellIn:  13
+arbitrary item                              Quality: 43   SellIn:  13
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 9
++5 Dexterity Vest                           Quality:  0   SellIn:  12
+Aged Brie                                   Quality:  8   SellIn:  12
+Backstage passes to a TAFKAL80ETC concert   Quality:  8   SellIn:  12
+Elixir of the Mongoose                      Quality:  0   SellIn:  12
+arbitrary item                              Quality:  0   SellIn:  12
++5 Dexterity Vest                           Quality: 17   SellIn:  12
+Aged Brie                                   Quality: 33   SellIn:  12
+Backstage passes to a TAFKAL80ETC concert   Quality: 33   SellIn:  12
+Elixir of the Mongoose                      Quality: 17   SellIn:  12
+arbitrary item                              Quality: 17   SellIn:  12
++5 Dexterity Vest                           Quality: 42   SellIn:  12
+Aged Brie                                   Quality: 50   SellIn:  12
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:  12
+Elixir of the Mongoose                      Quality: 42   SellIn:  12
+arbitrary item                              Quality: 42   SellIn:  12
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 10
++5 Dexterity Vest                           Quality:  0   SellIn:  11
+Aged Brie                                   Quality:  9   SellIn:  11
+Backstage passes to a TAFKAL80ETC concert   Quality:  9   SellIn:  11
+Elixir of the Mongoose                      Quality:  0   SellIn:  11
+arbitrary item                              Quality:  0   SellIn:  11
++5 Dexterity Vest                           Quality: 16   SellIn:  11
+Aged Brie                                   Quality: 34   SellIn:  11
+Backstage passes to a TAFKAL80ETC concert   Quality: 34   SellIn:  11
+Elixir of the Mongoose                      Quality: 16   SellIn:  11
+arbitrary item                              Quality: 16   SellIn:  11
++5 Dexterity Vest                           Quality: 41   SellIn:  11
+Aged Brie                                   Quality: 50   SellIn:  11
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:  11
+Elixir of the Mongoose                      Quality: 41   SellIn:  11
+arbitrary item                              Quality: 41   SellIn:  11
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 11
++5 Dexterity Vest                           Quality:  0   SellIn:  10
+Aged Brie                                   Quality: 10   SellIn:  10
+Backstage passes to a TAFKAL80ETC concert   Quality: 10   SellIn:  10
+Elixir of the Mongoose                      Quality:  0   SellIn:  10
+arbitrary item                              Quality:  0   SellIn:  10
++5 Dexterity Vest                           Quality: 15   SellIn:  10
+Aged Brie                                   Quality: 35   SellIn:  10
+Backstage passes to a TAFKAL80ETC concert   Quality: 35   SellIn:  10
+Elixir of the Mongoose                      Quality: 15   SellIn:  10
+arbitrary item                              Quality: 15   SellIn:  10
++5 Dexterity Vest                           Quality: 40   SellIn:  10
+Aged Brie                                   Quality: 50   SellIn:  10
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:  10
+Elixir of the Mongoose                      Quality: 40   SellIn:  10
+arbitrary item                              Quality: 40   SellIn:  10
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 12
++5 Dexterity Vest                           Quality:  0   SellIn:   9
+Aged Brie                                   Quality: 11   SellIn:   9
+Backstage passes to a TAFKAL80ETC concert   Quality: 12   SellIn:   9
+Elixir of the Mongoose                      Quality:  0   SellIn:   9
+arbitrary item                              Quality:  0   SellIn:   9
++5 Dexterity Vest                           Quality: 14   SellIn:   9
+Aged Brie                                   Quality: 36   SellIn:   9
+Backstage passes to a TAFKAL80ETC concert   Quality: 37   SellIn:   9
+Elixir of the Mongoose                      Quality: 14   SellIn:   9
+arbitrary item                              Quality: 14   SellIn:   9
++5 Dexterity Vest                           Quality: 39   SellIn:   9
+Aged Brie                                   Quality: 50   SellIn:   9
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   9
+Elixir of the Mongoose                      Quality: 39   SellIn:   9
+arbitrary item                              Quality: 39   SellIn:   9
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 13
++5 Dexterity Vest                           Quality:  0   SellIn:   8
+Aged Brie                                   Quality: 12   SellIn:   8
+Backstage passes to a TAFKAL80ETC concert   Quality: 14   SellIn:   8
+Elixir of the Mongoose                      Quality:  0   SellIn:   8
+arbitrary item                              Quality:  0   SellIn:   8
++5 Dexterity Vest                           Quality: 13   SellIn:   8
+Aged Brie                                   Quality: 37   SellIn:   8
+Backstage passes to a TAFKAL80ETC concert   Quality: 39   SellIn:   8
+Elixir of the Mongoose                      Quality: 13   SellIn:   8
+arbitrary item                              Quality: 13   SellIn:   8
++5 Dexterity Vest                           Quality: 38   SellIn:   8
+Aged Brie                                   Quality: 50   SellIn:   8
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   8
+Elixir of the Mongoose                      Quality: 38   SellIn:   8
+arbitrary item                              Quality: 38   SellIn:   8
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 14
++5 Dexterity Vest                           Quality:  0   SellIn:   7
+Aged Brie                                   Quality: 13   SellIn:   7
+Backstage passes to a TAFKAL80ETC concert   Quality: 16   SellIn:   7
+Elixir of the Mongoose                      Quality:  0   SellIn:   7
+arbitrary item                              Quality:  0   SellIn:   7
++5 Dexterity Vest                           Quality: 12   SellIn:   7
+Aged Brie                                   Quality: 38   SellIn:   7
+Backstage passes to a TAFKAL80ETC concert   Quality: 41   SellIn:   7
+Elixir of the Mongoose                      Quality: 12   SellIn:   7
+arbitrary item                              Quality: 12   SellIn:   7
++5 Dexterity Vest                           Quality: 37   SellIn:   7
+Aged Brie                                   Quality: 50   SellIn:   7
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   7
+Elixir of the Mongoose                      Quality: 37   SellIn:   7
+arbitrary item                              Quality: 37   SellIn:   7
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 15
++5 Dexterity Vest                           Quality:  0   SellIn:   6
+Aged Brie                                   Quality: 14   SellIn:   6
+Backstage passes to a TAFKAL80ETC concert   Quality: 18   SellIn:   6
+Elixir of the Mongoose                      Quality:  0   SellIn:   6
+arbitrary item                              Quality:  0   SellIn:   6
++5 Dexterity Vest                           Quality: 11   SellIn:   6
+Aged Brie                                   Quality: 39   SellIn:   6
+Backstage passes to a TAFKAL80ETC concert   Quality: 43   SellIn:   6
+Elixir of the Mongoose                      Quality: 11   SellIn:   6
+arbitrary item                              Quality: 11   SellIn:   6
++5 Dexterity Vest                           Quality: 36   SellIn:   6
+Aged Brie                                   Quality: 50   SellIn:   6
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   6
+Elixir of the Mongoose                      Quality: 36   SellIn:   6
+arbitrary item                              Quality: 36   SellIn:   6
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 16
++5 Dexterity Vest                           Quality:  0   SellIn:   5
+Aged Brie                                   Quality: 15   SellIn:   5
+Backstage passes to a TAFKAL80ETC concert   Quality: 20   SellIn:   5
+Elixir of the Mongoose                      Quality:  0   SellIn:   5
+arbitrary item                              Quality:  0   SellIn:   5
++5 Dexterity Vest                           Quality: 10   SellIn:   5
+Aged Brie                                   Quality: 40   SellIn:   5
+Backstage passes to a TAFKAL80ETC concert   Quality: 45   SellIn:   5
+Elixir of the Mongoose                      Quality: 10   SellIn:   5
+arbitrary item                              Quality: 10   SellIn:   5
++5 Dexterity Vest                           Quality: 35   SellIn:   5
+Aged Brie                                   Quality: 50   SellIn:   5
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   5
+Elixir of the Mongoose                      Quality: 35   SellIn:   5
+arbitrary item                              Quality: 35   SellIn:   5
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 17
++5 Dexterity Vest                           Quality:  0   SellIn:   4
+Aged Brie                                   Quality: 16   SellIn:   4
+Backstage passes to a TAFKAL80ETC concert   Quality: 23   SellIn:   4
+Elixir of the Mongoose                      Quality:  0   SellIn:   4
+arbitrary item                              Quality:  0   SellIn:   4
++5 Dexterity Vest                           Quality:  9   SellIn:   4
+Aged Brie                                   Quality: 41   SellIn:   4
+Backstage passes to a TAFKAL80ETC concert   Quality: 48   SellIn:   4
+Elixir of the Mongoose                      Quality:  9   SellIn:   4
+arbitrary item                              Quality:  9   SellIn:   4
++5 Dexterity Vest                           Quality: 34   SellIn:   4
+Aged Brie                                   Quality: 50   SellIn:   4
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   4
+Elixir of the Mongoose                      Quality: 34   SellIn:   4
+arbitrary item                              Quality: 34   SellIn:   4
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 18
++5 Dexterity Vest                           Quality:  0   SellIn:   3
+Aged Brie                                   Quality: 17   SellIn:   3
+Backstage passes to a TAFKAL80ETC concert   Quality: 26   SellIn:   3
+Elixir of the Mongoose                      Quality:  0   SellIn:   3
+arbitrary item                              Quality:  0   SellIn:   3
++5 Dexterity Vest                           Quality:  8   SellIn:   3
+Aged Brie                                   Quality: 42   SellIn:   3
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   3
+Elixir of the Mongoose                      Quality:  8   SellIn:   3
+arbitrary item                              Quality:  8   SellIn:   3
++5 Dexterity Vest                           Quality: 33   SellIn:   3
+Aged Brie                                   Quality: 50   SellIn:   3
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   3
+Elixir of the Mongoose                      Quality: 33   SellIn:   3
+arbitrary item                              Quality: 33   SellIn:   3
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 19
++5 Dexterity Vest                           Quality:  0   SellIn:   2
+Aged Brie                                   Quality: 18   SellIn:   2
+Backstage passes to a TAFKAL80ETC concert   Quality: 29   SellIn:   2
+Elixir of the Mongoose                      Quality:  0   SellIn:   2
+arbitrary item                              Quality:  0   SellIn:   2
++5 Dexterity Vest                           Quality:  7   SellIn:   2
+Aged Brie                                   Quality: 43   SellIn:   2
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   2
+Elixir of the Mongoose                      Quality:  7   SellIn:   2
+arbitrary item                              Quality:  7   SellIn:   2
++5 Dexterity Vest                           Quality: 32   SellIn:   2
+Aged Brie                                   Quality: 50   SellIn:   2
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   2
+Elixir of the Mongoose                      Quality: 32   SellIn:   2
+arbitrary item                              Quality: 32   SellIn:   2
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 20
++5 Dexterity Vest                           Quality:  0   SellIn:   1
+Aged Brie                                   Quality: 19   SellIn:   1
+Backstage passes to a TAFKAL80ETC concert   Quality: 32   SellIn:   1
+Elixir of the Mongoose                      Quality:  0   SellIn:   1
+arbitrary item                              Quality:  0   SellIn:   1
++5 Dexterity Vest                           Quality:  6   SellIn:   1
+Aged Brie                                   Quality: 44   SellIn:   1
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   1
+Elixir of the Mongoose                      Quality:  6   SellIn:   1
+arbitrary item                              Quality:  6   SellIn:   1
++5 Dexterity Vest                           Quality: 31   SellIn:   1
+Aged Brie                                   Quality: 50   SellIn:   1
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   1
+Elixir of the Mongoose                      Quality: 31   SellIn:   1
+arbitrary item                              Quality: 31   SellIn:   1
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 21
++5 Dexterity Vest                           Quality:  0   SellIn:   0
+Aged Brie                                   Quality: 20   SellIn:   0
+Backstage passes to a TAFKAL80ETC concert   Quality: 35   SellIn:   0
+Elixir of the Mongoose                      Quality:  0   SellIn:   0
+arbitrary item                              Quality:  0   SellIn:   0
++5 Dexterity Vest                           Quality:  5   SellIn:   0
+Aged Brie                                   Quality: 45   SellIn:   0
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   0
+Elixir of the Mongoose                      Quality:  5   SellIn:   0
+arbitrary item                              Quality:  5   SellIn:   0
++5 Dexterity Vest                           Quality: 30   SellIn:   0
+Aged Brie                                   Quality: 50   SellIn:   0
+Backstage passes to a TAFKAL80ETC concert   Quality: 50   SellIn:   0
+Elixir of the Mongoose                      Quality: 30   SellIn:   0
+arbitrary item                              Quality: 30   SellIn:   0
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 22
++5 Dexterity Vest                           Quality:  0   SellIn:  -1
+Aged Brie                                   Quality: 22   SellIn:  -1
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -1
+Elixir of the Mongoose                      Quality:  0   SellIn:  -1
+arbitrary item                              Quality:  0   SellIn:  -1
++5 Dexterity Vest                           Quality:  3   SellIn:  -1
+Aged Brie                                   Quality: 47   SellIn:  -1
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -1
+Elixir of the Mongoose                      Quality:  3   SellIn:  -1
+arbitrary item                              Quality:  3   SellIn:  -1
++5 Dexterity Vest                           Quality: 28   SellIn:  -1
+Aged Brie                                   Quality: 50   SellIn:  -1
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -1
+Elixir of the Mongoose                      Quality: 28   SellIn:  -1
+arbitrary item                              Quality: 28   SellIn:  -1
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 23
++5 Dexterity Vest                           Quality:  0   SellIn:  -2
+Aged Brie                                   Quality: 24   SellIn:  -2
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -2
+Elixir of the Mongoose                      Quality:  0   SellIn:  -2
+arbitrary item                              Quality:  0   SellIn:  -2
++5 Dexterity Vest                           Quality:  1   SellIn:  -2
+Aged Brie                                   Quality: 49   SellIn:  -2
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -2
+Elixir of the Mongoose                      Quality:  1   SellIn:  -2
+arbitrary item                              Quality:  1   SellIn:  -2
++5 Dexterity Vest                           Quality: 26   SellIn:  -2
+Aged Brie                                   Quality: 50   SellIn:  -2
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -2
+Elixir of the Mongoose                      Quality: 26   SellIn:  -2
+arbitrary item                              Quality: 26   SellIn:  -2
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 24
++5 Dexterity Vest                           Quality:  0   SellIn:  -3
+Aged Brie                                   Quality: 26   SellIn:  -3
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -3
+Elixir of the Mongoose                      Quality:  0   SellIn:  -3
+arbitrary item                              Quality:  0   SellIn:  -3
++5 Dexterity Vest                           Quality:  0   SellIn:  -3
+Aged Brie                                   Quality: 50   SellIn:  -3
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -3
+Elixir of the Mongoose                      Quality:  0   SellIn:  -3
+arbitrary item                              Quality:  0   SellIn:  -3
++5 Dexterity Vest                           Quality: 24   SellIn:  -3
+Aged Brie                                   Quality: 50   SellIn:  -3
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -3
+Elixir of the Mongoose                      Quality: 24   SellIn:  -3
+arbitrary item                              Quality: 24   SellIn:  -3
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 25
++5 Dexterity Vest                           Quality:  0   SellIn:  -4
+Aged Brie                                   Quality: 28   SellIn:  -4
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -4
+Elixir of the Mongoose                      Quality:  0   SellIn:  -4
+arbitrary item                              Quality:  0   SellIn:  -4
++5 Dexterity Vest                           Quality:  0   SellIn:  -4
+Aged Brie                                   Quality: 50   SellIn:  -4
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -4
+Elixir of the Mongoose                      Quality:  0   SellIn:  -4
+arbitrary item                              Quality:  0   SellIn:  -4
++5 Dexterity Vest                           Quality: 22   SellIn:  -4
+Aged Brie                                   Quality: 50   SellIn:  -4
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -4
+Elixir of the Mongoose                      Quality: 22   SellIn:  -4
+arbitrary item                              Quality: 22   SellIn:  -4
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 26
++5 Dexterity Vest                           Quality:  0   SellIn:  -5
+Aged Brie                                   Quality: 30   SellIn:  -5
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -5
+Elixir of the Mongoose                      Quality:  0   SellIn:  -5
+arbitrary item                              Quality:  0   SellIn:  -5
++5 Dexterity Vest                           Quality:  0   SellIn:  -5
+Aged Brie                                   Quality: 50   SellIn:  -5
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -5
+Elixir of the Mongoose                      Quality:  0   SellIn:  -5
+arbitrary item                              Quality:  0   SellIn:  -5
++5 Dexterity Vest                           Quality: 20   SellIn:  -5
+Aged Brie                                   Quality: 50   SellIn:  -5
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -5
+Elixir of the Mongoose                      Quality: 20   SellIn:  -5
+arbitrary item                              Quality: 20   SellIn:  -5
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 27
++5 Dexterity Vest                           Quality:  0   SellIn:  -6
+Aged Brie                                   Quality: 32   SellIn:  -6
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -6
+Elixir of the Mongoose                      Quality:  0   SellIn:  -6
+arbitrary item                              Quality:  0   SellIn:  -6
++5 Dexterity Vest                           Quality:  0   SellIn:  -6
+Aged Brie                                   Quality: 50   SellIn:  -6
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -6
+Elixir of the Mongoose                      Quality:  0   SellIn:  -6
+arbitrary item                              Quality:  0   SellIn:  -6
++5 Dexterity Vest                           Quality: 18   SellIn:  -6
+Aged Brie                                   Quality: 50   SellIn:  -6
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -6
+Elixir of the Mongoose                      Quality: 18   SellIn:  -6
+arbitrary item                              Quality: 18   SellIn:  -6
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 28
++5 Dexterity Vest                           Quality:  0   SellIn:  -7
+Aged Brie                                   Quality: 34   SellIn:  -7
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -7
+Elixir of the Mongoose                      Quality:  0   SellIn:  -7
+arbitrary item                              Quality:  0   SellIn:  -7
++5 Dexterity Vest                           Quality:  0   SellIn:  -7
+Aged Brie                                   Quality: 50   SellIn:  -7
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -7
+Elixir of the Mongoose                      Quality:  0   SellIn:  -7
+arbitrary item                              Quality:  0   SellIn:  -7
++5 Dexterity Vest                           Quality: 16   SellIn:  -7
+Aged Brie                                   Quality: 50   SellIn:  -7
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -7
+Elixir of the Mongoose                      Quality: 16   SellIn:  -7
+arbitrary item                              Quality: 16   SellIn:  -7
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 29
++5 Dexterity Vest                           Quality:  0   SellIn:  -8
+Aged Brie                                   Quality: 36   SellIn:  -8
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -8
+Elixir of the Mongoose                      Quality:  0   SellIn:  -8
+arbitrary item                              Quality:  0   SellIn:  -8
++5 Dexterity Vest                           Quality:  0   SellIn:  -8
+Aged Brie                                   Quality: 50   SellIn:  -8
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -8
+Elixir of the Mongoose                      Quality:  0   SellIn:  -8
+arbitrary item                              Quality:  0   SellIn:  -8
++5 Dexterity Vest                           Quality: 14   SellIn:  -8
+Aged Brie                                   Quality: 50   SellIn:  -8
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -8
+Elixir of the Mongoose                      Quality: 14   SellIn:  -8
+arbitrary item                              Quality: 14   SellIn:  -8
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 30
++5 Dexterity Vest                           Quality:  0   SellIn:  -9
+Aged Brie                                   Quality: 38   SellIn:  -9
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -9
+Elixir of the Mongoose                      Quality:  0   SellIn:  -9
+arbitrary item                              Quality:  0   SellIn:  -9
++5 Dexterity Vest                           Quality:  0   SellIn:  -9
+Aged Brie                                   Quality: 50   SellIn:  -9
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -9
+Elixir of the Mongoose                      Quality:  0   SellIn:  -9
+arbitrary item                              Quality:  0   SellIn:  -9
++5 Dexterity Vest                           Quality: 12   SellIn:  -9
+Aged Brie                                   Quality: 50   SellIn:  -9
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn:  -9
+Elixir of the Mongoose                      Quality: 12   SellIn:  -9
+arbitrary item                              Quality: 12   SellIn:  -9
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 31
++5 Dexterity Vest                           Quality:  0   SellIn: -10
+Aged Brie                                   Quality: 40   SellIn: -10
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -10
+Elixir of the Mongoose                      Quality:  0   SellIn: -10
+arbitrary item                              Quality:  0   SellIn: -10
++5 Dexterity Vest                           Quality:  0   SellIn: -10
+Aged Brie                                   Quality: 50   SellIn: -10
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -10
+Elixir of the Mongoose                      Quality:  0   SellIn: -10
+arbitrary item                              Quality:  0   SellIn: -10
++5 Dexterity Vest                           Quality: 10   SellIn: -10
+Aged Brie                                   Quality: 50   SellIn: -10
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -10
+Elixir of the Mongoose                      Quality: 10   SellIn: -10
+arbitrary item                              Quality: 10   SellIn: -10
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 32
++5 Dexterity Vest                           Quality:  0   SellIn: -11
+Aged Brie                                   Quality: 42   SellIn: -11
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -11
+Elixir of the Mongoose                      Quality:  0   SellIn: -11
+arbitrary item                              Quality:  0   SellIn: -11
++5 Dexterity Vest                           Quality:  0   SellIn: -11
+Aged Brie                                   Quality: 50   SellIn: -11
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -11
+Elixir of the Mongoose                      Quality:  0   SellIn: -11
+arbitrary item                              Quality:  0   SellIn: -11
++5 Dexterity Vest                           Quality:  8   SellIn: -11
+Aged Brie                                   Quality: 50   SellIn: -11
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -11
+Elixir of the Mongoose                      Quality:  8   SellIn: -11
+arbitrary item                              Quality:  8   SellIn: -11
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 33
++5 Dexterity Vest                           Quality:  0   SellIn: -12
+Aged Brie                                   Quality: 44   SellIn: -12
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -12
+Elixir of the Mongoose                      Quality:  0   SellIn: -12
+arbitrary item                              Quality:  0   SellIn: -12
++5 Dexterity Vest                           Quality:  0   SellIn: -12
+Aged Brie                                   Quality: 50   SellIn: -12
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -12
+Elixir of the Mongoose                      Quality:  0   SellIn: -12
+arbitrary item                              Quality:  0   SellIn: -12
++5 Dexterity Vest                           Quality:  6   SellIn: -12
+Aged Brie                                   Quality: 50   SellIn: -12
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -12
+Elixir of the Mongoose                      Quality:  6   SellIn: -12
+arbitrary item                              Quality:  6   SellIn: -12
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 34
++5 Dexterity Vest                           Quality:  0   SellIn: -13
+Aged Brie                                   Quality: 46   SellIn: -13
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -13
+Elixir of the Mongoose                      Quality:  0   SellIn: -13
+arbitrary item                              Quality:  0   SellIn: -13
++5 Dexterity Vest                           Quality:  0   SellIn: -13
+Aged Brie                                   Quality: 50   SellIn: -13
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -13
+Elixir of the Mongoose                      Quality:  0   SellIn: -13
+arbitrary item                              Quality:  0   SellIn: -13
++5 Dexterity Vest                           Quality:  4   SellIn: -13
+Aged Brie                                   Quality: 50   SellIn: -13
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -13
+Elixir of the Mongoose                      Quality:  4   SellIn: -13
+arbitrary item                              Quality:  4   SellIn: -13
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 35
++5 Dexterity Vest                           Quality:  0   SellIn: -14
+Aged Brie                                   Quality: 48   SellIn: -14
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -14
+Elixir of the Mongoose                      Quality:  0   SellIn: -14
+arbitrary item                              Quality:  0   SellIn: -14
++5 Dexterity Vest                           Quality:  0   SellIn: -14
+Aged Brie                                   Quality: 50   SellIn: -14
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -14
+Elixir of the Mongoose                      Quality:  0   SellIn: -14
+arbitrary item                              Quality:  0   SellIn: -14
++5 Dexterity Vest                           Quality:  2   SellIn: -14
+Aged Brie                                   Quality: 50   SellIn: -14
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -14
+Elixir of the Mongoose                      Quality:  2   SellIn: -14
+arbitrary item                              Quality:  2   SellIn: -14
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 36
++5 Dexterity Vest                           Quality:  0   SellIn: -15
+Aged Brie                                   Quality: 50   SellIn: -15
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -15
+Elixir of the Mongoose                      Quality:  0   SellIn: -15
+arbitrary item                              Quality:  0   SellIn: -15
++5 Dexterity Vest                           Quality:  0   SellIn: -15
+Aged Brie                                   Quality: 50   SellIn: -15
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -15
+Elixir of the Mongoose                      Quality:  0   SellIn: -15
+arbitrary item                              Quality:  0   SellIn: -15
++5 Dexterity Vest                           Quality:  0   SellIn: -15
+Aged Brie                                   Quality: 50   SellIn: -15
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -15
+Elixir of the Mongoose                      Quality:  0   SellIn: -15
+arbitrary item                              Quality:  0   SellIn: -15
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 37
++5 Dexterity Vest                           Quality:  0   SellIn: -16
+Aged Brie                                   Quality: 50   SellIn: -16
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -16
+Elixir of the Mongoose                      Quality:  0   SellIn: -16
+arbitrary item                              Quality:  0   SellIn: -16
++5 Dexterity Vest                           Quality:  0   SellIn: -16
+Aged Brie                                   Quality: 50   SellIn: -16
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -16
+Elixir of the Mongoose                      Quality:  0   SellIn: -16
+arbitrary item                              Quality:  0   SellIn: -16
++5 Dexterity Vest                           Quality:  0   SellIn: -16
+Aged Brie                                   Quality: 50   SellIn: -16
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -16
+Elixir of the Mongoose                      Quality:  0   SellIn: -16
+arbitrary item                              Quality:  0   SellIn: -16
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 38
++5 Dexterity Vest                           Quality:  0   SellIn: -17
+Aged Brie                                   Quality: 50   SellIn: -17
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -17
+Elixir of the Mongoose                      Quality:  0   SellIn: -17
+arbitrary item                              Quality:  0   SellIn: -17
++5 Dexterity Vest                           Quality:  0   SellIn: -17
+Aged Brie                                   Quality: 50   SellIn: -17
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -17
+Elixir of the Mongoose                      Quality:  0   SellIn: -17
+arbitrary item                              Quality:  0   SellIn: -17
++5 Dexterity Vest                           Quality:  0   SellIn: -17
+Aged Brie                                   Quality: 50   SellIn: -17
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -17
+Elixir of the Mongoose                      Quality:  0   SellIn: -17
+arbitrary item                              Quality:  0   SellIn: -17
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 39
++5 Dexterity Vest                           Quality:  0   SellIn: -18
+Aged Brie                                   Quality: 50   SellIn: -18
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -18
+Elixir of the Mongoose                      Quality:  0   SellIn: -18
+arbitrary item                              Quality:  0   SellIn: -18
++5 Dexterity Vest                           Quality:  0   SellIn: -18
+Aged Brie                                   Quality: 50   SellIn: -18
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -18
+Elixir of the Mongoose                      Quality:  0   SellIn: -18
+arbitrary item                              Quality:  0   SellIn: -18
++5 Dexterity Vest                           Quality:  0   SellIn: -18
+Aged Brie                                   Quality: 50   SellIn: -18
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -18
+Elixir of the Mongoose                      Quality:  0   SellIn: -18
+arbitrary item                              Quality:  0   SellIn: -18
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 40
++5 Dexterity Vest                           Quality:  0   SellIn: -19
+Aged Brie                                   Quality: 50   SellIn: -19
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -19
+Elixir of the Mongoose                      Quality:  0   SellIn: -19
+arbitrary item                              Quality:  0   SellIn: -19
++5 Dexterity Vest                           Quality:  0   SellIn: -19
+Aged Brie                                   Quality: 50   SellIn: -19
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -19
+Elixir of the Mongoose                      Quality:  0   SellIn: -19
+arbitrary item                              Quality:  0   SellIn: -19
++5 Dexterity Vest                           Quality:  0   SellIn: -19
+Aged Brie                                   Quality: 50   SellIn: -19
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -19
+Elixir of the Mongoose                      Quality:  0   SellIn: -19
+arbitrary item                              Quality:  0   SellIn: -19
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 41
++5 Dexterity Vest                           Quality:  0   SellIn: -20
+Aged Brie                                   Quality: 50   SellIn: -20
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -20
+Elixir of the Mongoose                      Quality:  0   SellIn: -20
+arbitrary item                              Quality:  0   SellIn: -20
++5 Dexterity Vest                           Quality:  0   SellIn: -20
+Aged Brie                                   Quality: 50   SellIn: -20
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -20
+Elixir of the Mongoose                      Quality:  0   SellIn: -20
+arbitrary item                              Quality:  0   SellIn: -20
++5 Dexterity Vest                           Quality:  0   SellIn: -20
+Aged Brie                                   Quality: 50   SellIn: -20
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -20
+Elixir of the Mongoose                      Quality:  0   SellIn: -20
+arbitrary item                              Quality:  0   SellIn: -20
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 42
++5 Dexterity Vest                           Quality:  0   SellIn: -21
+Aged Brie                                   Quality: 50   SellIn: -21
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -21
+Elixir of the Mongoose                      Quality:  0   SellIn: -21
+arbitrary item                              Quality:  0   SellIn: -21
++5 Dexterity Vest                           Quality:  0   SellIn: -21
+Aged Brie                                   Quality: 50   SellIn: -21
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -21
+Elixir of the Mongoose                      Quality:  0   SellIn: -21
+arbitrary item                              Quality:  0   SellIn: -21
++5 Dexterity Vest                           Quality:  0   SellIn: -21
+Aged Brie                                   Quality: 50   SellIn: -21
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -21
+Elixir of the Mongoose                      Quality:  0   SellIn: -21
+arbitrary item                              Quality:  0   SellIn: -21
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 43
++5 Dexterity Vest                           Quality:  0   SellIn: -22
+Aged Brie                                   Quality: 50   SellIn: -22
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -22
+Elixir of the Mongoose                      Quality:  0   SellIn: -22
+arbitrary item                              Quality:  0   SellIn: -22
++5 Dexterity Vest                           Quality:  0   SellIn: -22
+Aged Brie                                   Quality: 50   SellIn: -22
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -22
+Elixir of the Mongoose                      Quality:  0   SellIn: -22
+arbitrary item                              Quality:  0   SellIn: -22
++5 Dexterity Vest                           Quality:  0   SellIn: -22
+Aged Brie                                   Quality: 50   SellIn: -22
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -22
+Elixir of the Mongoose                      Quality:  0   SellIn: -22
+arbitrary item                              Quality:  0   SellIn: -22
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 44
++5 Dexterity Vest                           Quality:  0   SellIn: -23
+Aged Brie                                   Quality: 50   SellIn: -23
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -23
+Elixir of the Mongoose                      Quality:  0   SellIn: -23
+arbitrary item                              Quality:  0   SellIn: -23
++5 Dexterity Vest                           Quality:  0   SellIn: -23
+Aged Brie                                   Quality: 50   SellIn: -23
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -23
+Elixir of the Mongoose                      Quality:  0   SellIn: -23
+arbitrary item                              Quality:  0   SellIn: -23
++5 Dexterity Vest                           Quality:  0   SellIn: -23
+Aged Brie                                   Quality: 50   SellIn: -23
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -23
+Elixir of the Mongoose                      Quality:  0   SellIn: -23
+arbitrary item                              Quality:  0   SellIn: -23
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 45
++5 Dexterity Vest                           Quality:  0   SellIn: -24
+Aged Brie                                   Quality: 50   SellIn: -24
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -24
+Elixir of the Mongoose                      Quality:  0   SellIn: -24
+arbitrary item                              Quality:  0   SellIn: -24
++5 Dexterity Vest                           Quality:  0   SellIn: -24
+Aged Brie                                   Quality: 50   SellIn: -24
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -24
+Elixir of the Mongoose                      Quality:  0   SellIn: -24
+arbitrary item                              Quality:  0   SellIn: -24
++5 Dexterity Vest                           Quality:  0   SellIn: -24
+Aged Brie                                   Quality: 50   SellIn: -24
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -24
+Elixir of the Mongoose                      Quality:  0   SellIn: -24
+arbitrary item                              Quality:  0   SellIn: -24
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 46
++5 Dexterity Vest                           Quality:  0   SellIn: -25
+Aged Brie                                   Quality: 50   SellIn: -25
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -25
+Elixir of the Mongoose                      Quality:  0   SellIn: -25
+arbitrary item                              Quality:  0   SellIn: -25
++5 Dexterity Vest                           Quality:  0   SellIn: -25
+Aged Brie                                   Quality: 50   SellIn: -25
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -25
+Elixir of the Mongoose                      Quality:  0   SellIn: -25
+arbitrary item                              Quality:  0   SellIn: -25
++5 Dexterity Vest                           Quality:  0   SellIn: -25
+Aged Brie                                   Quality: 50   SellIn: -25
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -25
+Elixir of the Mongoose                      Quality:  0   SellIn: -25
+arbitrary item                              Quality:  0   SellIn: -25
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 47
++5 Dexterity Vest                           Quality:  0   SellIn: -26
+Aged Brie                                   Quality: 50   SellIn: -26
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -26
+Elixir of the Mongoose                      Quality:  0   SellIn: -26
+arbitrary item                              Quality:  0   SellIn: -26
++5 Dexterity Vest                           Quality:  0   SellIn: -26
+Aged Brie                                   Quality: 50   SellIn: -26
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -26
+Elixir of the Mongoose                      Quality:  0   SellIn: -26
+arbitrary item                              Quality:  0   SellIn: -26
++5 Dexterity Vest                           Quality:  0   SellIn: -26
+Aged Brie                                   Quality: 50   SellIn: -26
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -26
+Elixir of the Mongoose                      Quality:  0   SellIn: -26
+arbitrary item                              Quality:  0   SellIn: -26
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 48
++5 Dexterity Vest                           Quality:  0   SellIn: -27
+Aged Brie                                   Quality: 50   SellIn: -27
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -27
+Elixir of the Mongoose                      Quality:  0   SellIn: -27
+arbitrary item                              Quality:  0   SellIn: -27
++5 Dexterity Vest                           Quality:  0   SellIn: -27
+Aged Brie                                   Quality: 50   SellIn: -27
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -27
+Elixir of the Mongoose                      Quality:  0   SellIn: -27
+arbitrary item                              Quality:  0   SellIn: -27
++5 Dexterity Vest                           Quality:  0   SellIn: -27
+Aged Brie                                   Quality: 50   SellIn: -27
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -27
+Elixir of the Mongoose                      Quality:  0   SellIn: -27
+arbitrary item                              Quality:  0   SellIn: -27
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 49
++5 Dexterity Vest                           Quality:  0   SellIn: -28
+Aged Brie                                   Quality: 50   SellIn: -28
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -28
+Elixir of the Mongoose                      Quality:  0   SellIn: -28
+arbitrary item                              Quality:  0   SellIn: -28
++5 Dexterity Vest                           Quality:  0   SellIn: -28
+Aged Brie                                   Quality: 50   SellIn: -28
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -28
+Elixir of the Mongoose                      Quality:  0   SellIn: -28
+arbitrary item                              Quality:  0   SellIn: -28
++5 Dexterity Vest                           Quality:  0   SellIn: -28
+Aged Brie                                   Quality: 50   SellIn: -28
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -28
+Elixir of the Mongoose                      Quality:  0   SellIn: -28
+arbitrary item                              Quality:  0   SellIn: -28
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 50
++5 Dexterity Vest                           Quality:  0   SellIn: -29
+Aged Brie                                   Quality: 50   SellIn: -29
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -29
+Elixir of the Mongoose                      Quality:  0   SellIn: -29
+arbitrary item                              Quality:  0   SellIn: -29
++5 Dexterity Vest                           Quality:  0   SellIn: -29
+Aged Brie                                   Quality: 50   SellIn: -29
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -29
+Elixir of the Mongoose                      Quality:  0   SellIn: -29
+arbitrary item                              Quality:  0   SellIn: -29
++5 Dexterity Vest                           Quality:  0   SellIn: -29
+Aged Brie                                   Quality: 50   SellIn: -29
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -29
+Elixir of the Mongoose                      Quality:  0   SellIn: -29
+arbitrary item                              Quality:  0   SellIn: -29
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 51
++5 Dexterity Vest                           Quality:  0   SellIn: -30
+Aged Brie                                   Quality: 50   SellIn: -30
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -30
+Elixir of the Mongoose                      Quality:  0   SellIn: -30
+arbitrary item                              Quality:  0   SellIn: -30
++5 Dexterity Vest                           Quality:  0   SellIn: -30
+Aged Brie                                   Quality: 50   SellIn: -30
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -30
+Elixir of the Mongoose                      Quality:  0   SellIn: -30
+arbitrary item                              Quality:  0   SellIn: -30
++5 Dexterity Vest                           Quality:  0   SellIn: -30
+Aged Brie                                   Quality: 50   SellIn: -30
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -30
+Elixir of the Mongoose                      Quality:  0   SellIn: -30
+arbitrary item                              Quality:  0   SellIn: -30
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 52
++5 Dexterity Vest                           Quality:  0   SellIn: -31
+Aged Brie                                   Quality: 50   SellIn: -31
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -31
+Elixir of the Mongoose                      Quality:  0   SellIn: -31
+arbitrary item                              Quality:  0   SellIn: -31
++5 Dexterity Vest                           Quality:  0   SellIn: -31
+Aged Brie                                   Quality: 50   SellIn: -31
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -31
+Elixir of the Mongoose                      Quality:  0   SellIn: -31
+arbitrary item                              Quality:  0   SellIn: -31
++5 Dexterity Vest                           Quality:  0   SellIn: -31
+Aged Brie                                   Quality: 50   SellIn: -31
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -31
+Elixir of the Mongoose                      Quality:  0   SellIn: -31
+arbitrary item                              Quality:  0   SellIn: -31
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 53
++5 Dexterity Vest                           Quality:  0   SellIn: -32
+Aged Brie                                   Quality: 50   SellIn: -32
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -32
+Elixir of the Mongoose                      Quality:  0   SellIn: -32
+arbitrary item                              Quality:  0   SellIn: -32
++5 Dexterity Vest                           Quality:  0   SellIn: -32
+Aged Brie                                   Quality: 50   SellIn: -32
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -32
+Elixir of the Mongoose                      Quality:  0   SellIn: -32
+arbitrary item                              Quality:  0   SellIn: -32
++5 Dexterity Vest                           Quality:  0   SellIn: -32
+Aged Brie                                   Quality: 50   SellIn: -32
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -32
+Elixir of the Mongoose                      Quality:  0   SellIn: -32
+arbitrary item                              Quality:  0   SellIn: -32
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 54
++5 Dexterity Vest                           Quality:  0   SellIn: -33
+Aged Brie                                   Quality: 50   SellIn: -33
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -33
+Elixir of the Mongoose                      Quality:  0   SellIn: -33
+arbitrary item                              Quality:  0   SellIn: -33
++5 Dexterity Vest                           Quality:  0   SellIn: -33
+Aged Brie                                   Quality: 50   SellIn: -33
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -33
+Elixir of the Mongoose                      Quality:  0   SellIn: -33
+arbitrary item                              Quality:  0   SellIn: -33
++5 Dexterity Vest                           Quality:  0   SellIn: -33
+Aged Brie                                   Quality: 50   SellIn: -33
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -33
+Elixir of the Mongoose                      Quality:  0   SellIn: -33
+arbitrary item                              Quality:  0   SellIn: -33
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 55
++5 Dexterity Vest                           Quality:  0   SellIn: -34
+Aged Brie                                   Quality: 50   SellIn: -34
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -34
+Elixir of the Mongoose                      Quality:  0   SellIn: -34
+arbitrary item                              Quality:  0   SellIn: -34
++5 Dexterity Vest                           Quality:  0   SellIn: -34
+Aged Brie                                   Quality: 50   SellIn: -34
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -34
+Elixir of the Mongoose                      Quality:  0   SellIn: -34
+arbitrary item                              Quality:  0   SellIn: -34
++5 Dexterity Vest                           Quality:  0   SellIn: -34
+Aged Brie                                   Quality: 50   SellIn: -34
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -34
+Elixir of the Mongoose                      Quality:  0   SellIn: -34
+arbitrary item                              Quality:  0   SellIn: -34
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 56
++5 Dexterity Vest                           Quality:  0   SellIn: -35
+Aged Brie                                   Quality: 50   SellIn: -35
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -35
+Elixir of the Mongoose                      Quality:  0   SellIn: -35
+arbitrary item                              Quality:  0   SellIn: -35
++5 Dexterity Vest                           Quality:  0   SellIn: -35
+Aged Brie                                   Quality: 50   SellIn: -35
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -35
+Elixir of the Mongoose                      Quality:  0   SellIn: -35
+arbitrary item                              Quality:  0   SellIn: -35
++5 Dexterity Vest                           Quality:  0   SellIn: -35
+Aged Brie                                   Quality: 50   SellIn: -35
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -35
+Elixir of the Mongoose                      Quality:  0   SellIn: -35
+arbitrary item                              Quality:  0   SellIn: -35
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 57
++5 Dexterity Vest                           Quality:  0   SellIn: -36
+Aged Brie                                   Quality: 50   SellIn: -36
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -36
+Elixir of the Mongoose                      Quality:  0   SellIn: -36
+arbitrary item                              Quality:  0   SellIn: -36
++5 Dexterity Vest                           Quality:  0   SellIn: -36
+Aged Brie                                   Quality: 50   SellIn: -36
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -36
+Elixir of the Mongoose                      Quality:  0   SellIn: -36
+arbitrary item                              Quality:  0   SellIn: -36
++5 Dexterity Vest                           Quality:  0   SellIn: -36
+Aged Brie                                   Quality: 50   SellIn: -36
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -36
+Elixir of the Mongoose                      Quality:  0   SellIn: -36
+arbitrary item                              Quality:  0   SellIn: -36
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 58
++5 Dexterity Vest                           Quality:  0   SellIn: -37
+Aged Brie                                   Quality: 50   SellIn: -37
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -37
+Elixir of the Mongoose                      Quality:  0   SellIn: -37
+arbitrary item                              Quality:  0   SellIn: -37
++5 Dexterity Vest                           Quality:  0   SellIn: -37
+Aged Brie                                   Quality: 50   SellIn: -37
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -37
+Elixir of the Mongoose                      Quality:  0   SellIn: -37
+arbitrary item                              Quality:  0   SellIn: -37
++5 Dexterity Vest                           Quality:  0   SellIn: -37
+Aged Brie                                   Quality: 50   SellIn: -37
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -37
+Elixir of the Mongoose                      Quality:  0   SellIn: -37
+arbitrary item                              Quality:  0   SellIn: -37
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 59
++5 Dexterity Vest                           Quality:  0   SellIn: -38
+Aged Brie                                   Quality: 50   SellIn: -38
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -38
+Elixir of the Mongoose                      Quality:  0   SellIn: -38
+arbitrary item                              Quality:  0   SellIn: -38
++5 Dexterity Vest                           Quality:  0   SellIn: -38
+Aged Brie                                   Quality: 50   SellIn: -38
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -38
+Elixir of the Mongoose                      Quality:  0   SellIn: -38
+arbitrary item                              Quality:  0   SellIn: -38
++5 Dexterity Vest                           Quality:  0   SellIn: -38
+Aged Brie                                   Quality: 50   SellIn: -38
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -38
+Elixir of the Mongoose                      Quality:  0   SellIn: -38
+arbitrary item                              Quality:  0   SellIn: -38
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 60
++5 Dexterity Vest                           Quality:  0   SellIn: -39
+Aged Brie                                   Quality: 50   SellIn: -39
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -39
+Elixir of the Mongoose                      Quality:  0   SellIn: -39
+arbitrary item                              Quality:  0   SellIn: -39
++5 Dexterity Vest                           Quality:  0   SellIn: -39
+Aged Brie                                   Quality: 50   SellIn: -39
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -39
+Elixir of the Mongoose                      Quality:  0   SellIn: -39
+arbitrary item                              Quality:  0   SellIn: -39
++5 Dexterity Vest                           Quality:  0   SellIn: -39
+Aged Brie                                   Quality: 50   SellIn: -39
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -39
+Elixir of the Mongoose                      Quality:  0   SellIn: -39
+arbitrary item                              Quality:  0   SellIn: -39
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 61
++5 Dexterity Vest                           Quality:  0   SellIn: -40
+Aged Brie                                   Quality: 50   SellIn: -40
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -40
+Elixir of the Mongoose                      Quality:  0   SellIn: -40
+arbitrary item                              Quality:  0   SellIn: -40
++5 Dexterity Vest                           Quality:  0   SellIn: -40
+Aged Brie                                   Quality: 50   SellIn: -40
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -40
+Elixir of the Mongoose                      Quality:  0   SellIn: -40
+arbitrary item                              Quality:  0   SellIn: -40
++5 Dexterity Vest                           Quality:  0   SellIn: -40
+Aged Brie                                   Quality: 50   SellIn: -40
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -40
+Elixir of the Mongoose                      Quality:  0   SellIn: -40
+arbitrary item                              Quality:  0   SellIn: -40
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 62
++5 Dexterity Vest                           Quality:  0   SellIn: -41
+Aged Brie                                   Quality: 50   SellIn: -41
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -41
+Elixir of the Mongoose                      Quality:  0   SellIn: -41
+arbitrary item                              Quality:  0   SellIn: -41
++5 Dexterity Vest                           Quality:  0   SellIn: -41
+Aged Brie                                   Quality: 50   SellIn: -41
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -41
+Elixir of the Mongoose                      Quality:  0   SellIn: -41
+arbitrary item                              Quality:  0   SellIn: -41
++5 Dexterity Vest                           Quality:  0   SellIn: -41
+Aged Brie                                   Quality: 50   SellIn: -41
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -41
+Elixir of the Mongoose                      Quality:  0   SellIn: -41
+arbitrary item                              Quality:  0   SellIn: -41
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 63
++5 Dexterity Vest                           Quality:  0   SellIn: -42
+Aged Brie                                   Quality: 50   SellIn: -42
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -42
+Elixir of the Mongoose                      Quality:  0   SellIn: -42
+arbitrary item                              Quality:  0   SellIn: -42
++5 Dexterity Vest                           Quality:  0   SellIn: -42
+Aged Brie                                   Quality: 50   SellIn: -42
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -42
+Elixir of the Mongoose                      Quality:  0   SellIn: -42
+arbitrary item                              Quality:  0   SellIn: -42
++5 Dexterity Vest                           Quality:  0   SellIn: -42
+Aged Brie                                   Quality: 50   SellIn: -42
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -42
+Elixir of the Mongoose                      Quality:  0   SellIn: -42
+arbitrary item                              Quality:  0   SellIn: -42
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 64
++5 Dexterity Vest                           Quality:  0   SellIn: -43
+Aged Brie                                   Quality: 50   SellIn: -43
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -43
+Elixir of the Mongoose                      Quality:  0   SellIn: -43
+arbitrary item                              Quality:  0   SellIn: -43
++5 Dexterity Vest                           Quality:  0   SellIn: -43
+Aged Brie                                   Quality: 50   SellIn: -43
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -43
+Elixir of the Mongoose                      Quality:  0   SellIn: -43
+arbitrary item                              Quality:  0   SellIn: -43
++5 Dexterity Vest                           Quality:  0   SellIn: -43
+Aged Brie                                   Quality: 50   SellIn: -43
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -43
+Elixir of the Mongoose                      Quality:  0   SellIn: -43
+arbitrary item                              Quality:  0   SellIn: -43
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 65
++5 Dexterity Vest                           Quality:  0   SellIn: -44
+Aged Brie                                   Quality: 50   SellIn: -44
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -44
+Elixir of the Mongoose                      Quality:  0   SellIn: -44
+arbitrary item                              Quality:  0   SellIn: -44
++5 Dexterity Vest                           Quality:  0   SellIn: -44
+Aged Brie                                   Quality: 50   SellIn: -44
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -44
+Elixir of the Mongoose                      Quality:  0   SellIn: -44
+arbitrary item                              Quality:  0   SellIn: -44
++5 Dexterity Vest                           Quality:  0   SellIn: -44
+Aged Brie                                   Quality: 50   SellIn: -44
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -44
+Elixir of the Mongoose                      Quality:  0   SellIn: -44
+arbitrary item                              Quality:  0   SellIn: -44
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 66
++5 Dexterity Vest                           Quality:  0   SellIn: -45
+Aged Brie                                   Quality: 50   SellIn: -45
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -45
+Elixir of the Mongoose                      Quality:  0   SellIn: -45
+arbitrary item                              Quality:  0   SellIn: -45
++5 Dexterity Vest                           Quality:  0   SellIn: -45
+Aged Brie                                   Quality: 50   SellIn: -45
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -45
+Elixir of the Mongoose                      Quality:  0   SellIn: -45
+arbitrary item                              Quality:  0   SellIn: -45
++5 Dexterity Vest                           Quality:  0   SellIn: -45
+Aged Brie                                   Quality: 50   SellIn: -45
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -45
+Elixir of the Mongoose                      Quality:  0   SellIn: -45
+arbitrary item                              Quality:  0   SellIn: -45
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 67
++5 Dexterity Vest                           Quality:  0   SellIn: -46
+Aged Brie                                   Quality: 50   SellIn: -46
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -46
+Elixir of the Mongoose                      Quality:  0   SellIn: -46
+arbitrary item                              Quality:  0   SellIn: -46
++5 Dexterity Vest                           Quality:  0   SellIn: -46
+Aged Brie                                   Quality: 50   SellIn: -46
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -46
+Elixir of the Mongoose                      Quality:  0   SellIn: -46
+arbitrary item                              Quality:  0   SellIn: -46
++5 Dexterity Vest                           Quality:  0   SellIn: -46
+Aged Brie                                   Quality: 50   SellIn: -46
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -46
+Elixir of the Mongoose                      Quality:  0   SellIn: -46
+arbitrary item                              Quality:  0   SellIn: -46
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 68
++5 Dexterity Vest                           Quality:  0   SellIn: -47
+Aged Brie                                   Quality: 50   SellIn: -47
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -47
+Elixir of the Mongoose                      Quality:  0   SellIn: -47
+arbitrary item                              Quality:  0   SellIn: -47
++5 Dexterity Vest                           Quality:  0   SellIn: -47
+Aged Brie                                   Quality: 50   SellIn: -47
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -47
+Elixir of the Mongoose                      Quality:  0   SellIn: -47
+arbitrary item                              Quality:  0   SellIn: -47
++5 Dexterity Vest                           Quality:  0   SellIn: -47
+Aged Brie                                   Quality: 50   SellIn: -47
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -47
+Elixir of the Mongoose                      Quality:  0   SellIn: -47
+arbitrary item                              Quality:  0   SellIn: -47
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 69
++5 Dexterity Vest                           Quality:  0   SellIn: -48
+Aged Brie                                   Quality: 50   SellIn: -48
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -48
+Elixir of the Mongoose                      Quality:  0   SellIn: -48
+arbitrary item                              Quality:  0   SellIn: -48
++5 Dexterity Vest                           Quality:  0   SellIn: -48
+Aged Brie                                   Quality: 50   SellIn: -48
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -48
+Elixir of the Mongoose                      Quality:  0   SellIn: -48
+arbitrary item                              Quality:  0   SellIn: -48
++5 Dexterity Vest                           Quality:  0   SellIn: -48
+Aged Brie                                   Quality: 50   SellIn: -48
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -48
+Elixir of the Mongoose                      Quality:  0   SellIn: -48
+arbitrary item                              Quality:  0   SellIn: -48
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 70
++5 Dexterity Vest                           Quality:  0   SellIn: -49
+Aged Brie                                   Quality: 50   SellIn: -49
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -49
+Elixir of the Mongoose                      Quality:  0   SellIn: -49
+arbitrary item                              Quality:  0   SellIn: -49
++5 Dexterity Vest                           Quality:  0   SellIn: -49
+Aged Brie                                   Quality: 50   SellIn: -49
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -49
+Elixir of the Mongoose                      Quality:  0   SellIn: -49
+arbitrary item                              Quality:  0   SellIn: -49
++5 Dexterity Vest                           Quality:  0   SellIn: -49
+Aged Brie                                   Quality: 50   SellIn: -49
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -49
+Elixir of the Mongoose                      Quality:  0   SellIn: -49
+arbitrary item                              Quality:  0   SellIn: -49
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 71
++5 Dexterity Vest                           Quality:  0   SellIn: -50
+Aged Brie                                   Quality: 50   SellIn: -50
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -50
+Elixir of the Mongoose                      Quality:  0   SellIn: -50
+arbitrary item                              Quality:  0   SellIn: -50
++5 Dexterity Vest                           Quality:  0   SellIn: -50
+Aged Brie                                   Quality: 50   SellIn: -50
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -50
+Elixir of the Mongoose                      Quality:  0   SellIn: -50
+arbitrary item                              Quality:  0   SellIn: -50
++5 Dexterity Vest                           Quality:  0   SellIn: -50
+Aged Brie                                   Quality: 50   SellIn: -50
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -50
+Elixir of the Mongoose                      Quality:  0   SellIn: -50
+arbitrary item                              Quality:  0   SellIn: -50
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 72
++5 Dexterity Vest                           Quality:  0   SellIn: -51
+Aged Brie                                   Quality: 50   SellIn: -51
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -51
+Elixir of the Mongoose                      Quality:  0   SellIn: -51
+arbitrary item                              Quality:  0   SellIn: -51
++5 Dexterity Vest                           Quality:  0   SellIn: -51
+Aged Brie                                   Quality: 50   SellIn: -51
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -51
+Elixir of the Mongoose                      Quality:  0   SellIn: -51
+arbitrary item                              Quality:  0   SellIn: -51
++5 Dexterity Vest                           Quality:  0   SellIn: -51
+Aged Brie                                   Quality: 50   SellIn: -51
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -51
+Elixir of the Mongoose                      Quality:  0   SellIn: -51
+arbitrary item                              Quality:  0   SellIn: -51
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 73
++5 Dexterity Vest                           Quality:  0   SellIn: -52
+Aged Brie                                   Quality: 50   SellIn: -52
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -52
+Elixir of the Mongoose                      Quality:  0   SellIn: -52
+arbitrary item                              Quality:  0   SellIn: -52
++5 Dexterity Vest                           Quality:  0   SellIn: -52
+Aged Brie                                   Quality: 50   SellIn: -52
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -52
+Elixir of the Mongoose                      Quality:  0   SellIn: -52
+arbitrary item                              Quality:  0   SellIn: -52
++5 Dexterity Vest                           Quality:  0   SellIn: -52
+Aged Brie                                   Quality: 50   SellIn: -52
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -52
+Elixir of the Mongoose                      Quality:  0   SellIn: -52
+arbitrary item                              Quality:  0   SellIn: -52
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 74
++5 Dexterity Vest                           Quality:  0   SellIn: -53
+Aged Brie                                   Quality: 50   SellIn: -53
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -53
+Elixir of the Mongoose                      Quality:  0   SellIn: -53
+arbitrary item                              Quality:  0   SellIn: -53
++5 Dexterity Vest                           Quality:  0   SellIn: -53
+Aged Brie                                   Quality: 50   SellIn: -53
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -53
+Elixir of the Mongoose                      Quality:  0   SellIn: -53
+arbitrary item                              Quality:  0   SellIn: -53
++5 Dexterity Vest                           Quality:  0   SellIn: -53
+Aged Brie                                   Quality: 50   SellIn: -53
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -53
+Elixir of the Mongoose                      Quality:  0   SellIn: -53
+arbitrary item                              Quality:  0   SellIn: -53
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 75
++5 Dexterity Vest                           Quality:  0   SellIn: -54
+Aged Brie                                   Quality: 50   SellIn: -54
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -54
+Elixir of the Mongoose                      Quality:  0   SellIn: -54
+arbitrary item                              Quality:  0   SellIn: -54
++5 Dexterity Vest                           Quality:  0   SellIn: -54
+Aged Brie                                   Quality: 50   SellIn: -54
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -54
+Elixir of the Mongoose                      Quality:  0   SellIn: -54
+arbitrary item                              Quality:  0   SellIn: -54
++5 Dexterity Vest                           Quality:  0   SellIn: -54
+Aged Brie                                   Quality: 50   SellIn: -54
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -54
+Elixir of the Mongoose                      Quality:  0   SellIn: -54
+arbitrary item                              Quality:  0   SellIn: -54
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 76
++5 Dexterity Vest                           Quality:  0   SellIn: -55
+Aged Brie                                   Quality: 50   SellIn: -55
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -55
+Elixir of the Mongoose                      Quality:  0   SellIn: -55
+arbitrary item                              Quality:  0   SellIn: -55
++5 Dexterity Vest                           Quality:  0   SellIn: -55
+Aged Brie                                   Quality: 50   SellIn: -55
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -55
+Elixir of the Mongoose                      Quality:  0   SellIn: -55
+arbitrary item                              Quality:  0   SellIn: -55
++5 Dexterity Vest                           Quality:  0   SellIn: -55
+Aged Brie                                   Quality: 50   SellIn: -55
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -55
+Elixir of the Mongoose                      Quality:  0   SellIn: -55
+arbitrary item                              Quality:  0   SellIn: -55
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 77
++5 Dexterity Vest                           Quality:  0   SellIn: -56
+Aged Brie                                   Quality: 50   SellIn: -56
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -56
+Elixir of the Mongoose                      Quality:  0   SellIn: -56
+arbitrary item                              Quality:  0   SellIn: -56
++5 Dexterity Vest                           Quality:  0   SellIn: -56
+Aged Brie                                   Quality: 50   SellIn: -56
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -56
+Elixir of the Mongoose                      Quality:  0   SellIn: -56
+arbitrary item                              Quality:  0   SellIn: -56
++5 Dexterity Vest                           Quality:  0   SellIn: -56
+Aged Brie                                   Quality: 50   SellIn: -56
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -56
+Elixir of the Mongoose                      Quality:  0   SellIn: -56
+arbitrary item                              Quality:  0   SellIn: -56
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 78
++5 Dexterity Vest                           Quality:  0   SellIn: -57
+Aged Brie                                   Quality: 50   SellIn: -57
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -57
+Elixir of the Mongoose                      Quality:  0   SellIn: -57
+arbitrary item                              Quality:  0   SellIn: -57
++5 Dexterity Vest                           Quality:  0   SellIn: -57
+Aged Brie                                   Quality: 50   SellIn: -57
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -57
+Elixir of the Mongoose                      Quality:  0   SellIn: -57
+arbitrary item                              Quality:  0   SellIn: -57
++5 Dexterity Vest                           Quality:  0   SellIn: -57
+Aged Brie                                   Quality: 50   SellIn: -57
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -57
+Elixir of the Mongoose                      Quality:  0   SellIn: -57
+arbitrary item                              Quality:  0   SellIn: -57
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 79
++5 Dexterity Vest                           Quality:  0   SellIn: -58
+Aged Brie                                   Quality: 50   SellIn: -58
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -58
+Elixir of the Mongoose                      Quality:  0   SellIn: -58
+arbitrary item                              Quality:  0   SellIn: -58
++5 Dexterity Vest                           Quality:  0   SellIn: -58
+Aged Brie                                   Quality: 50   SellIn: -58
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -58
+Elixir of the Mongoose                      Quality:  0   SellIn: -58
+arbitrary item                              Quality:  0   SellIn: -58
++5 Dexterity Vest                           Quality:  0   SellIn: -58
+Aged Brie                                   Quality: 50   SellIn: -58
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -58
+Elixir of the Mongoose                      Quality:  0   SellIn: -58
+arbitrary item                              Quality:  0   SellIn: -58
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 80
++5 Dexterity Vest                           Quality:  0   SellIn: -59
+Aged Brie                                   Quality: 50   SellIn: -59
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -59
+Elixir of the Mongoose                      Quality:  0   SellIn: -59
+arbitrary item                              Quality:  0   SellIn: -59
++5 Dexterity Vest                           Quality:  0   SellIn: -59
+Aged Brie                                   Quality: 50   SellIn: -59
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -59
+Elixir of the Mongoose                      Quality:  0   SellIn: -59
+arbitrary item                              Quality:  0   SellIn: -59
++5 Dexterity Vest                           Quality:  0   SellIn: -59
+Aged Brie                                   Quality: 50   SellIn: -59
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -59
+Elixir of the Mongoose                      Quality:  0   SellIn: -59
+arbitrary item                              Quality:  0   SellIn: -59
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 81
++5 Dexterity Vest                           Quality:  0   SellIn: -60
+Aged Brie                                   Quality: 50   SellIn: -60
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -60
+Elixir of the Mongoose                      Quality:  0   SellIn: -60
+arbitrary item                              Quality:  0   SellIn: -60
++5 Dexterity Vest                           Quality:  0   SellIn: -60
+Aged Brie                                   Quality: 50   SellIn: -60
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -60
+Elixir of the Mongoose                      Quality:  0   SellIn: -60
+arbitrary item                              Quality:  0   SellIn: -60
++5 Dexterity Vest                           Quality:  0   SellIn: -60
+Aged Brie                                   Quality: 50   SellIn: -60
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -60
+Elixir of the Mongoose                      Quality:  0   SellIn: -60
+arbitrary item                              Quality:  0   SellIn: -60
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 82
++5 Dexterity Vest                           Quality:  0   SellIn: -61
+Aged Brie                                   Quality: 50   SellIn: -61
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -61
+Elixir of the Mongoose                      Quality:  0   SellIn: -61
+arbitrary item                              Quality:  0   SellIn: -61
++5 Dexterity Vest                           Quality:  0   SellIn: -61
+Aged Brie                                   Quality: 50   SellIn: -61
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -61
+Elixir of the Mongoose                      Quality:  0   SellIn: -61
+arbitrary item                              Quality:  0   SellIn: -61
++5 Dexterity Vest                           Quality:  0   SellIn: -61
+Aged Brie                                   Quality: 50   SellIn: -61
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -61
+Elixir of the Mongoose                      Quality:  0   SellIn: -61
+arbitrary item                              Quality:  0   SellIn: -61
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 83
++5 Dexterity Vest                           Quality:  0   SellIn: -62
+Aged Brie                                   Quality: 50   SellIn: -62
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -62
+Elixir of the Mongoose                      Quality:  0   SellIn: -62
+arbitrary item                              Quality:  0   SellIn: -62
++5 Dexterity Vest                           Quality:  0   SellIn: -62
+Aged Brie                                   Quality: 50   SellIn: -62
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -62
+Elixir of the Mongoose                      Quality:  0   SellIn: -62
+arbitrary item                              Quality:  0   SellIn: -62
++5 Dexterity Vest                           Quality:  0   SellIn: -62
+Aged Brie                                   Quality: 50   SellIn: -62
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -62
+Elixir of the Mongoose                      Quality:  0   SellIn: -62
+arbitrary item                              Quality:  0   SellIn: -62
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 84
++5 Dexterity Vest                           Quality:  0   SellIn: -63
+Aged Brie                                   Quality: 50   SellIn: -63
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -63
+Elixir of the Mongoose                      Quality:  0   SellIn: -63
+arbitrary item                              Quality:  0   SellIn: -63
++5 Dexterity Vest                           Quality:  0   SellIn: -63
+Aged Brie                                   Quality: 50   SellIn: -63
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -63
+Elixir of the Mongoose                      Quality:  0   SellIn: -63
+arbitrary item                              Quality:  0   SellIn: -63
++5 Dexterity Vest                           Quality:  0   SellIn: -63
+Aged Brie                                   Quality: 50   SellIn: -63
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -63
+Elixir of the Mongoose                      Quality:  0   SellIn: -63
+arbitrary item                              Quality:  0   SellIn: -63
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 85
++5 Dexterity Vest                           Quality:  0   SellIn: -64
+Aged Brie                                   Quality: 50   SellIn: -64
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -64
+Elixir of the Mongoose                      Quality:  0   SellIn: -64
+arbitrary item                              Quality:  0   SellIn: -64
++5 Dexterity Vest                           Quality:  0   SellIn: -64
+Aged Brie                                   Quality: 50   SellIn: -64
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -64
+Elixir of the Mongoose                      Quality:  0   SellIn: -64
+arbitrary item                              Quality:  0   SellIn: -64
++5 Dexterity Vest                           Quality:  0   SellIn: -64
+Aged Brie                                   Quality: 50   SellIn: -64
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -64
+Elixir of the Mongoose                      Quality:  0   SellIn: -64
+arbitrary item                              Quality:  0   SellIn: -64
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 86
++5 Dexterity Vest                           Quality:  0   SellIn: -65
+Aged Brie                                   Quality: 50   SellIn: -65
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -65
+Elixir of the Mongoose                      Quality:  0   SellIn: -65
+arbitrary item                              Quality:  0   SellIn: -65
++5 Dexterity Vest                           Quality:  0   SellIn: -65
+Aged Brie                                   Quality: 50   SellIn: -65
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -65
+Elixir of the Mongoose                      Quality:  0   SellIn: -65
+arbitrary item                              Quality:  0   SellIn: -65
++5 Dexterity Vest                           Quality:  0   SellIn: -65
+Aged Brie                                   Quality: 50   SellIn: -65
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -65
+Elixir of the Mongoose                      Quality:  0   SellIn: -65
+arbitrary item                              Quality:  0   SellIn: -65
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 87
++5 Dexterity Vest                           Quality:  0   SellIn: -66
+Aged Brie                                   Quality: 50   SellIn: -66
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -66
+Elixir of the Mongoose                      Quality:  0   SellIn: -66
+arbitrary item                              Quality:  0   SellIn: -66
++5 Dexterity Vest                           Quality:  0   SellIn: -66
+Aged Brie                                   Quality: 50   SellIn: -66
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -66
+Elixir of the Mongoose                      Quality:  0   SellIn: -66
+arbitrary item                              Quality:  0   SellIn: -66
++5 Dexterity Vest                           Quality:  0   SellIn: -66
+Aged Brie                                   Quality: 50   SellIn: -66
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -66
+Elixir of the Mongoose                      Quality:  0   SellIn: -66
+arbitrary item                              Quality:  0   SellIn: -66
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 88
++5 Dexterity Vest                           Quality:  0   SellIn: -67
+Aged Brie                                   Quality: 50   SellIn: -67
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -67
+Elixir of the Mongoose                      Quality:  0   SellIn: -67
+arbitrary item                              Quality:  0   SellIn: -67
++5 Dexterity Vest                           Quality:  0   SellIn: -67
+Aged Brie                                   Quality: 50   SellIn: -67
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -67
+Elixir of the Mongoose                      Quality:  0   SellIn: -67
+arbitrary item                              Quality:  0   SellIn: -67
++5 Dexterity Vest                           Quality:  0   SellIn: -67
+Aged Brie                                   Quality: 50   SellIn: -67
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -67
+Elixir of the Mongoose                      Quality:  0   SellIn: -67
+arbitrary item                              Quality:  0   SellIn: -67
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 89
++5 Dexterity Vest                           Quality:  0   SellIn: -68
+Aged Brie                                   Quality: 50   SellIn: -68
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -68
+Elixir of the Mongoose                      Quality:  0   SellIn: -68
+arbitrary item                              Quality:  0   SellIn: -68
++5 Dexterity Vest                           Quality:  0   SellIn: -68
+Aged Brie                                   Quality: 50   SellIn: -68
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -68
+Elixir of the Mongoose                      Quality:  0   SellIn: -68
+arbitrary item                              Quality:  0   SellIn: -68
++5 Dexterity Vest                           Quality:  0   SellIn: -68
+Aged Brie                                   Quality: 50   SellIn: -68
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -68
+Elixir of the Mongoose                      Quality:  0   SellIn: -68
+arbitrary item                              Quality:  0   SellIn: -68
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 90
++5 Dexterity Vest                           Quality:  0   SellIn: -69
+Aged Brie                                   Quality: 50   SellIn: -69
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -69
+Elixir of the Mongoose                      Quality:  0   SellIn: -69
+arbitrary item                              Quality:  0   SellIn: -69
++5 Dexterity Vest                           Quality:  0   SellIn: -69
+Aged Brie                                   Quality: 50   SellIn: -69
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -69
+Elixir of the Mongoose                      Quality:  0   SellIn: -69
+arbitrary item                              Quality:  0   SellIn: -69
++5 Dexterity Vest                           Quality:  0   SellIn: -69
+Aged Brie                                   Quality: 50   SellIn: -69
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -69
+Elixir of the Mongoose                      Quality:  0   SellIn: -69
+arbitrary item                              Quality:  0   SellIn: -69
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 91
++5 Dexterity Vest                           Quality:  0   SellIn: -70
+Aged Brie                                   Quality: 50   SellIn: -70
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -70
+Elixir of the Mongoose                      Quality:  0   SellIn: -70
+arbitrary item                              Quality:  0   SellIn: -70
++5 Dexterity Vest                           Quality:  0   SellIn: -70
+Aged Brie                                   Quality: 50   SellIn: -70
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -70
+Elixir of the Mongoose                      Quality:  0   SellIn: -70
+arbitrary item                              Quality:  0   SellIn: -70
++5 Dexterity Vest                           Quality:  0   SellIn: -70
+Aged Brie                                   Quality: 50   SellIn: -70
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -70
+Elixir of the Mongoose                      Quality:  0   SellIn: -70
+arbitrary item                              Quality:  0   SellIn: -70
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 92
++5 Dexterity Vest                           Quality:  0   SellIn: -71
+Aged Brie                                   Quality: 50   SellIn: -71
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -71
+Elixir of the Mongoose                      Quality:  0   SellIn: -71
+arbitrary item                              Quality:  0   SellIn: -71
++5 Dexterity Vest                           Quality:  0   SellIn: -71
+Aged Brie                                   Quality: 50   SellIn: -71
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -71
+Elixir of the Mongoose                      Quality:  0   SellIn: -71
+arbitrary item                              Quality:  0   SellIn: -71
++5 Dexterity Vest                           Quality:  0   SellIn: -71
+Aged Brie                                   Quality: 50   SellIn: -71
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -71
+Elixir of the Mongoose                      Quality:  0   SellIn: -71
+arbitrary item                              Quality:  0   SellIn: -71
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 93
++5 Dexterity Vest                           Quality:  0   SellIn: -72
+Aged Brie                                   Quality: 50   SellIn: -72
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -72
+Elixir of the Mongoose                      Quality:  0   SellIn: -72
+arbitrary item                              Quality:  0   SellIn: -72
++5 Dexterity Vest                           Quality:  0   SellIn: -72
+Aged Brie                                   Quality: 50   SellIn: -72
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -72
+Elixir of the Mongoose                      Quality:  0   SellIn: -72
+arbitrary item                              Quality:  0   SellIn: -72
++5 Dexterity Vest                           Quality:  0   SellIn: -72
+Aged Brie                                   Quality: 50   SellIn: -72
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -72
+Elixir of the Mongoose                      Quality:  0   SellIn: -72
+arbitrary item                              Quality:  0   SellIn: -72
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 94
++5 Dexterity Vest                           Quality:  0   SellIn: -73
+Aged Brie                                   Quality: 50   SellIn: -73
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -73
+Elixir of the Mongoose                      Quality:  0   SellIn: -73
+arbitrary item                              Quality:  0   SellIn: -73
++5 Dexterity Vest                           Quality:  0   SellIn: -73
+Aged Brie                                   Quality: 50   SellIn: -73
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -73
+Elixir of the Mongoose                      Quality:  0   SellIn: -73
+arbitrary item                              Quality:  0   SellIn: -73
++5 Dexterity Vest                           Quality:  0   SellIn: -73
+Aged Brie                                   Quality: 50   SellIn: -73
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -73
+Elixir of the Mongoose                      Quality:  0   SellIn: -73
+arbitrary item                              Quality:  0   SellIn: -73
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 95
++5 Dexterity Vest                           Quality:  0   SellIn: -74
+Aged Brie                                   Quality: 50   SellIn: -74
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -74
+Elixir of the Mongoose                      Quality:  0   SellIn: -74
+arbitrary item                              Quality:  0   SellIn: -74
++5 Dexterity Vest                           Quality:  0   SellIn: -74
+Aged Brie                                   Quality: 50   SellIn: -74
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -74
+Elixir of the Mongoose                      Quality:  0   SellIn: -74
+arbitrary item                              Quality:  0   SellIn: -74
++5 Dexterity Vest                           Quality:  0   SellIn: -74
+Aged Brie                                   Quality: 50   SellIn: -74
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -74
+Elixir of the Mongoose                      Quality:  0   SellIn: -74
+arbitrary item                              Quality:  0   SellIn: -74
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 96
++5 Dexterity Vest                           Quality:  0   SellIn: -75
+Aged Brie                                   Quality: 50   SellIn: -75
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -75
+Elixir of the Mongoose                      Quality:  0   SellIn: -75
+arbitrary item                              Quality:  0   SellIn: -75
++5 Dexterity Vest                           Quality:  0   SellIn: -75
+Aged Brie                                   Quality: 50   SellIn: -75
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -75
+Elixir of the Mongoose                      Quality:  0   SellIn: -75
+arbitrary item                              Quality:  0   SellIn: -75
++5 Dexterity Vest                           Quality:  0   SellIn: -75
+Aged Brie                                   Quality: 50   SellIn: -75
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -75
+Elixir of the Mongoose                      Quality:  0   SellIn: -75
+arbitrary item                              Quality:  0   SellIn: -75
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 97
++5 Dexterity Vest                           Quality:  0   SellIn: -76
+Aged Brie                                   Quality: 50   SellIn: -76
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -76
+Elixir of the Mongoose                      Quality:  0   SellIn: -76
+arbitrary item                              Quality:  0   SellIn: -76
++5 Dexterity Vest                           Quality:  0   SellIn: -76
+Aged Brie                                   Quality: 50   SellIn: -76
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -76
+Elixir of the Mongoose                      Quality:  0   SellIn: -76
+arbitrary item                              Quality:  0   SellIn: -76
++5 Dexterity Vest                           Quality:  0   SellIn: -76
+Aged Brie                                   Quality: 50   SellIn: -76
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -76
+Elixir of the Mongoose                      Quality:  0   SellIn: -76
+arbitrary item                              Quality:  0   SellIn: -76
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 98
++5 Dexterity Vest                           Quality:  0   SellIn: -77
+Aged Brie                                   Quality: 50   SellIn: -77
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -77
+Elixir of the Mongoose                      Quality:  0   SellIn: -77
+arbitrary item                              Quality:  0   SellIn: -77
++5 Dexterity Vest                           Quality:  0   SellIn: -77
+Aged Brie                                   Quality: 50   SellIn: -77
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -77
+Elixir of the Mongoose                      Quality:  0   SellIn: -77
+arbitrary item                              Quality:  0   SellIn: -77
++5 Dexterity Vest                           Quality:  0   SellIn: -77
+Aged Brie                                   Quality: 50   SellIn: -77
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -77
+Elixir of the Mongoose                      Quality:  0   SellIn: -77
+arbitrary item                              Quality:  0   SellIn: -77
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 99
++5 Dexterity Vest                           Quality:  0   SellIn: -78
+Aged Brie                                   Quality: 50   SellIn: -78
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -78
+Elixir of the Mongoose                      Quality:  0   SellIn: -78
+arbitrary item                              Quality:  0   SellIn: -78
++5 Dexterity Vest                           Quality:  0   SellIn: -78
+Aged Brie                                   Quality: 50   SellIn: -78
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -78
+Elixir of the Mongoose                      Quality:  0   SellIn: -78
+arbitrary item                              Quality:  0   SellIn: -78
++5 Dexterity Vest                           Quality:  0   SellIn: -78
+Aged Brie                                   Quality: 50   SellIn: -78
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -78
+Elixir of the Mongoose                      Quality:  0   SellIn: -78
+arbitrary item                              Quality:  0   SellIn: -78
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
+Day 100
++5 Dexterity Vest                           Quality:  0   SellIn: -79
+Aged Brie                                   Quality: 50   SellIn: -79
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -79
+Elixir of the Mongoose                      Quality:  0   SellIn: -79
+arbitrary item                              Quality:  0   SellIn: -79
++5 Dexterity Vest                           Quality:  0   SellIn: -79
+Aged Brie                                   Quality: 50   SellIn: -79
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -79
+Elixir of the Mongoose                      Quality:  0   SellIn: -79
+arbitrary item                              Quality:  0   SellIn: -79
++5 Dexterity Vest                           Quality:  0   SellIn: -79
+Aged Brie                                   Quality: 50   SellIn: -79
+Backstage passes to a TAFKAL80ETC concert   Quality:  0   SellIn: -79
+Elixir of the Mongoose                      Quality:  0   SellIn: -79
+arbitrary item                              Quality:  0   SellIn: -79
+Sulfuras, Hand of Ragnaros                  Quality: 80   SellIn:   0
+
