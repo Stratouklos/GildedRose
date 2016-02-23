@@ -6,7 +6,7 @@ This is a Java version of the Gilded Rose Kata, original found
 Initially adapted by Alex Aitken, and found [here](https://github.com/alexaitken/GildedRose_java).
 
 
-# Original Description of the Gilded Rose
+# Description of the Gilded Rose
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn
 with a prime location in a prominent city ran by a friendly innkeeper
@@ -37,6 +37,10 @@ Pretty simple, right? Well this is where it gets interesting:
     days or less and by 3 when there are 5 days or less but Quality
     drops to 0 after the concert
 
+We're sure this is how the system works. Okay we're pretty sure that's how it works. We kind of forget the details.
+Whatever, it works for us so please don't change the logic!
+
+
 We have recently signed a supplier of conjured items. This requires an update to our system:
 
 - "Conjured" items degrade in Quality twice as fast as normal items
@@ -45,11 +49,14 @@ Feel free to make any changes to the UpdateQuality method and add any
 new code as long as everything still works correctly. However, do not
 alter the Item class or Items property as those belong to the goblin
 in the corner who will insta-rage and one-shot you as he doesn't
-believe in shared code ownership (you can make the UpdateQuality
-method and Items property static if you like, we'll cover for
-you). Your work needs to be completed by Friday, February 18, 2011
-08:00:00 AM PST.
+believe in shared code ownership.
 
-Just for clarification, an item can never have its Quality increase
-above 50, however "Sulfuras" is a legendary item and as such its
-Quality is 80 and it never alters.
+---
+We have provided three types of tests that you can run which should provide enough
+coverage for you to refactor safely.
+
+You can also run Mutation Tests (using [pitest](http://pitest.org/)) by running:
+```
+mvn install
+mvn org.pitest:pitest-maven:mutationCoverage
+```

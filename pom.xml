@@ -22,7 +22,7 @@
                     </targetTests>
                     <excludedClasses>
                         <param>com.leanintuit.gildedrose.InventoryApprovalTest</param>
-                        <param>com.leanintuit.gildedrose.InventoryCharacterizationTest</param>
+                        <param>com.leanintuit.gildedrose.InventoryViceTest</param>
                     </excludedClasses>
                 </configuration>
             </plugin>

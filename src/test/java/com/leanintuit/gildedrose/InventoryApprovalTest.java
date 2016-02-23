@@ -1,15 +1,12 @@
 package com.leanintuit.gildedrose;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import org.approvaltests.Approvals;
-import org.approvaltests.reporters.DiffReporter;
 import org.approvaltests.reporters.FileLauncherReporter;
-import org.approvaltests.reporters.JunitReporter;
-import org.approvaltests.reporters.QuietReporter;
 import org.approvaltests.reporters.UseReporter;
 import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class InventoryApprovalTest {
 
